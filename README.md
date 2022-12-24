@@ -1,7 +1,8 @@
+### Hi there 👋
+
+My name is [Fabiano](https://github.com/fabianohkd/) and I'm a DevOps. I'm from Brazil, living in São José dos Campos and currently working at @GrupoCard.
+
 <!--
-
-My name is Fabiano and I'm a software developer/DevOps. I'm from Brazil, living in SJCampos and currently working at GrupoCard.
-
 **fabianohkd/fabianohkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,13 +15,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/fabianohkd/fabianohkd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianohkd" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianohkd&theme=transparent&layout=compact" />
 </a>
+
+-->
+
 <a href="https://github.com/fabianohkd/fabianohkd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianohkd&show_icons=true&line_height=27&count_private=true" alt="FabianoHKD GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianohkd&show_icons=true&line_height=27&count_private=true&theme=transparent" alt="FabianoHKD GitHub Stats" />
 </a>
