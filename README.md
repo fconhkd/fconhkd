@@ -1,3 +1,5 @@
+Mude, mas comece devagar, porque a direção é mais importante que a velocidade.
+
 <!--
 ### Hi there 👋
 
