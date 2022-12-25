@@ -1,5 +1,6 @@
-### Hi there 👋
 <!--
+### Hi there 👋
+
 My name is [Fabiano](https://fabianohkd.github.io/) and I'm developer and operate software. I'm from Brazil, living in São José dos Campos and currently working at @GrupoCard.
 
 
@@ -23,8 +24,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianohkd&theme=transparent&layout=compact" />
 </a>
 
--->
+
 
 <a href="https://github.com/fabianohkd/fabianohkd">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianohkd&show_icons=true&line_height=27&count_private=true&theme=transparent" alt="FabianoHKD GitHub Stats" />
 </a>
+
+-->
