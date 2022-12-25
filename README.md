@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Fabiano](https://github.com/fabianohkd/) and I'm a DevOps. I'm from Brazil, living in São José dos Campos and currently working at @GrupoCard.
+My name is [Fabiano](https://fabianohkd.github.io/) and I'm developer and operate software. I'm from Brazil, living in São José dos Campos and currently working at @GrupoCard.
 
 <!--
 **fabianohkd/fabianohkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
